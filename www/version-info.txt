@@ -1,0 +1,13 @@
+General Infos:
+==============
+project = 52North Client Implementation (restful-timeseries-client)
+version = 1.0.0
+builddate = ${git.build.time}
+
+Subversion Infos:
+=================
+repository = ${git.repository}
+path = ${git.branch}
+revision = ${git.commit.id}
+lastCommitMessage = ${git.commit.message.short}
+lastCommitDate = ${git.commit.time}

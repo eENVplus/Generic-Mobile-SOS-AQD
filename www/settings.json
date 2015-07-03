@@ -1,0 +1,26 @@
+{
+    "selectedLineWidth": 4,
+    "commonLineWidth": 1,
+    "restApiUrls": {
+        "http://geo.irceline.be/sos/api/v1/": "irceline",
+        "http://sensors.geonovum.nl/sos/api/v1/": "geonovum"
+    },
+    "defaultProvider": {
+        "serviceID": "srv_6d9ccea8d609ecb74d4a512922bb7cee",
+        "apiUrl": "http://sosrest.irceline.be/api/v1/"
+    },
+    "chartOptions":{
+        "yaxis":{
+            "tickDecimals" : 2
+        }
+    },
+	 
+    "clusterStations": false,
+    "generalizeData": true,
+	"enableGeoSearch": true,
+	"saveStatus": true,
+    "saveStatusPossible": true,
+    "concentrationMarker": true,
+    "pagesize": 30,
+    "enableGeoSearch": true
+}
